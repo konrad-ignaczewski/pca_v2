@@ -1,5 +1,6 @@
 #! /usr/bin/python3
-
+#libraries
+import re
 #initialization
 input_file = open("./input/sampleInput.txt", "r")
 config_file = open("config.ini", "r")
@@ -14,6 +15,13 @@ measurements_missing = (config[8].split(" "))[2]
 print(target, hysteresis, debug, measurements_missing, measurements_window)
 DL = {}
 UL = {}
+#validation VARIABLES
+MS_pattern = re.compile("^MS\d\d\d$")
+cell_id_pattern = re.compile('^[NS]\d$')
+protocole_pattern = re.compile('^[DU]L$')
+signal_pattern = re.compile('^-[456789]\d$')
+quality_pattern = re.compile('^$|[012345]')
+
 
 def load_input():
     current_line = input_file.readline()
@@ -26,26 +34,31 @@ def load_input():
     return current_list
 
 def input_validation(current_list):
-    #take from basic code
-    print(placeholder)
+    if (protocole_pattern.match(current_list[0]) and
+        cell_id_pattern.match(current_list[1]) and
+        MS_pattern.match(current_list[2]) and
+        signal_pattern.match(current_list[3]) and
+        quality_pattern.match(current_list[4])):
+       x = True
+    else:
+        x = False
+    return x
 
 def append_to_dictionary(input_list):
     if input_list[0] == "DL":
         if input_list[2] not in DL.keys():
             DL[input_list[2]] = [input_list[3]]
-            print(DL)
         else:
             DL[input_list[2]].append(input_list[3])
-            print(DL)
     elif input_list[0] == "UL":
         if input_list[2] not in UL.keys():
             UL[input_list[2]] = [input_list[3]]
-            print(UL)
         else:
             UL[input_list[2]].append(input_list[3])
-            print(UL)
+
 
 
 while True:
     input_list = load_input()
     append_to_dictionary(input_list)
+    input_validation(input_list)
