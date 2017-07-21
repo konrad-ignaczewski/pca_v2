@@ -1,0 +1,1400 @@
+DL  S0  MS111  -75  0
+DL  S0  MS222  -75  0
+DL  S0  MS333  -75  0
+DL  S0  MS444  -75  1
+DL  N0  MS111  -75  
+DL  N0  MS222  -75  
+DL  N0  MS333  -75  
+DL  N0  MS444  -75  
+UL  S0  MS111  -75  0
+UL  S0  MS222  -75  1
+UL  S0  MS333  -75  0
+UL  S0  MS444  -75  0
+UL  N0  MS111  -75  
+UL  N0  MS222  -75  
+UL  N0  MS333  -75  
+UL  N0  MS444  -75  
+DL  S0  MS111  -78  0
+DL  S0  MS222  -80  0
+DL  S0  MS333  -73  1
+DL  S0  MS444  -79  2
+DL  N0  MS111  -73  
+DL  N0  MS222  -76  
+DL  N0  MS333  -71  
+DL  N0  MS444  -72  
+UL  S0  MS111  -77  2
+UL  S0  MS222  -76  0
+UL  S0  MS333  -72  1
+UL  S0  MS444  -75  1
+UL  N0  MS111  -70  
+UL  N0  MS222  -72  
+UL  N0  MS333  -75  
+UL  N0  MS444  -70  
+DL  S0  MS111  -74  0
+DL  S0  MS222  -76  0
+DL  S0  MS333  -73  0
+DL  S0  MS444  missing  
+DL  N0  MS111  -68  
+DL  N0  MS222  -81  
+DL  N0  MS333  -76  
+DL  N0  MS444  -67  
+UL  S0  MS111  -73  1
+UL  S0  MS222  -78  1
+UL  S0  MS333  -74  1
+UL  S0  MS444  -79  2
+UL  N0  MS111  -68  
+UL  N0  MS222  -70  
+UL  N0  MS333  -76  
+UL  N0  MS444  -68  
+DL  S0  MS111  -73  1
+DL  S0  MS222  -72  1
+DL  S0  MS333  -73  0
+DL  S0  MS444  -87  5
+DL  N0  MS111  -67  
+DL  N0  MS222  -78  
+DL  N0  MS333  -72  
+DL  N0  MS444  -72  
+UL  S0  MS111  -77  0
+UL  S0  MS222  -73  0
+UL  S0  MS333  -75  1
+UL  S0  MS444  -81  3
+UL  N0  MS111  -64  
+UL  N0  MS222  -65  
+UL  N0  MS333  -79  
+UL  N0  MS444  -70  
+DL  S0  MS111  -76  1
+DL  S0  MS222  -72  0
+DL  S0  MS333  -78  1
+DL  S0  MS444  -92  3
+DL  N0  MS111  -66  
+DL  N0  MS222  -77  
+DL  N0  MS333  -75  
+DL  N0  MS444  -72  
+UL  S0  MS111  -76  2
+UL  S0  MS222  -73  1
+UL  S0  MS333  -78  1
+UL  S0  MS444  -84  4
+UL  N0  MS111  -67  
+UL  N0  MS222  -60  
+UL  N0  MS333  missing  
+UL  N0  MS444  -65  
+DL  S0  MS111  -72  0
+DL  S0  MS222  -73  1
+DL  S0  MS333  -81  3
+DL  S0  MS444  -86  4
+DL  N0  MS111  -74  
+DL  N0  MS222  -75  
+DL  N0  MS333  -74  
+DL  N0  MS444  -72  
+UL  S0  MS111  -76  0
+UL  S0  MS222  -73  1
+UL  S0  MS333  -78  2
+UL  S0  MS444  -80  1
+UL  N0  MS111  -74  
+UL  N0  MS222  -67  
+UL  N0  MS333  -78  
+UL  N0  MS444  -74  
+DL  S0  MS111  -69  0
+DL  S0  MS222  -69  0
+DL  S0  MS333  -82  3
+DL  S0  MS444  -77  2
+DL  N0  MS111  -73  
+DL  N0  MS222  -78  
+DL  N0  MS333  -71  
+DL  N0  MS444  -68  
+UL  S0  MS111  missing  
+UL  S0  MS222  -75  1
+UL  S0  MS333  -76  0
+UL  S0  MS444  -72  1
+UL  N0  MS111  -79  
+UL  N0  MS222  -75  
+UL  N0  MS333  -73  
+UL  N0  MS444  -83  
+DL  S0  MS111  -67  1
+DL  S0  MS222  missing  
+DL  S0  MS333  -82  5
+DL  S0  MS444  -68  1
+DL  N0  MS111  -71  
+DL  N0  MS222  -74  
+DL  N0  MS333  -75  
+DL  N0  MS444  -63  
+UL  S0  MS111  -84  3
+UL  S0  MS222  -74  1
+UL  S0  MS333  -72  1
+UL  S0  MS444  -75  0
+UL  N0  MS111  -84  
+UL  N0  MS222  -78  
+UL  N0  MS333  -73  
+UL  N0  MS444  -86  
+DL  S0  MS111  -68  0
+DL  S0  MS222  -69  1
+DL  S0  MS333  -75  1
+DL  S0  MS444  -65  0
+DL  N0  MS111  -74  
+DL  N0  MS222  -69  
+DL  N0  MS333  -71  
+DL  N0  MS444  -70  
+UL  S0  MS111  -85  5
+UL  S0  MS222  -79  2
+UL  S0  MS333  -68  1
+UL  S0  MS444  -80  2
+UL  N0  MS111  -81  
+UL  N0  MS222  -75  
+UL  N0  MS333  missing  
+UL  N0  MS444  -81  
+DL  S0  MS111  -77  0
+DL  S0  MS222  -65  1
+DL  S0  MS333  -75  1
+DL  S0  MS444  -62  1
+DL  N0  MS111  -76  
+DL  N0  MS222  missing  
+DL  N0  MS333  -70  
+DL  N0  MS444  -69  
+UL  S0  MS111  -76  1
+UL  S0  MS222  missing  
+UL  S0  MS333  -69  1
+UL  S0  MS444  missing  
+UL  N0  MS111  -78  
+UL  N0  MS222  -74  
+UL  N0  MS333  -65  
+UL  N0  MS444  -75  
+DL  S0  MS111  -72  1
+DL  S0  MS222  -66  0
+DL  S0  MS333  -74  0
+DL  S0  MS444  -62  0
+DL  N0  MS111  missing  
+DL  N0  MS222  missing  
+DL  N0  MS333  missing  
+DL  N0  MS444  -68  
+UL  S0  MS111  missing  
+UL  S0  MS222  -88  2
+UL  S0  MS333  -73  0
+UL  S0  MS444  -76  2
+UL  N0  MS111  -67  
+UL  N0  MS222  -71  
+UL  N0  MS333  -64  
+UL  N0  MS444  -72  
+DL  S0  MS111  -76  1
+DL  S0  MS222  -66  1
+DL  S0  MS333  -69  0
+DL  S0  MS444  -64  0
+DL  N0  MS111  -69  
+DL  N0  MS222  -66  
+DL  N0  MS333  -69  
+DL  N0  MS444  -67  
+UL  S0  MS111  -62  1
+UL  S0  MS222  -90  5
+UL  S0  MS333  -76  2
+UL  S0  MS444  -80  2
+UL  N0  MS111  missing  
+UL  N0  MS222  -70  
+UL  N0  MS333  -65  
+UL  N0  MS444  -69  
+DL  S0  MS111  -77  2
+DL  S0  MS222  -67  0
+DL  S0  MS333  -71  1
+DL  S0  MS444  -68  0
+DL  N0  MS111  missing  
+DL  N0  MS222  -65  
+DL  N0  MS333  -69  
+DL  N0  MS444  -71  
+UL  S0  MS111  -65  1
+UL  S0  MS222  -84  4
+UL  S0  MS333  -79  2
+UL  S0  MS444  -82  2
+UL  N0  MS111  -71  
+UL  N0  MS222  -75  
+UL  N0  MS333  -64  
+UL  N0  MS444  -69  
+DL  S0  MS111  -73  1
+DL  S0  MS222  -67  1
+DL  S0  MS333  -68  1
+DL  S0  MS444  -75  1
+DL  N0  MS111  -70  
+DL  N0  MS222  -62  
+DL  N0  MS333  -70  
+DL  N0  MS444  missing  
+UL  S0  MS111  -71  0
+UL  S0  MS222  -75  0
+UL  S0  MS333  -79  1
+UL  S0  MS444  -78  2
+UL  N0  MS111  -76  
+UL  N0  MS222  -75  
+UL  N0  MS333  -66  
+UL  N0  MS444  -66  
+DL  S0  MS111  -71  0
+DL  S0  MS222  missing  
+DL  S0  MS333  missing  
+DL  S0  MS444  -81  4
+DL  N0  MS111  -71  
+DL  N0  MS222  -62  
+DL  N0  MS333  -69  
+DL  N0  MS444  -86  
+UL  S0  MS111  -75  1
+UL  S0  MS222  -67  0
+UL  S0  MS333  -75  0
+UL  S0  MS444  -73  1
+UL  N0  MS111  -71  
+UL  N0  MS222  -72  
+UL  N0  MS333  -65  
+UL  N0  MS444  -66  
+DL  S0  MS111  -70  1
+DL  S0  MS222  -71  1
+DL  S0  MS333  -76  1
+DL  S0  MS444  -81  5
+DL  N0  MS111  -76  
+DL  N0  MS222  -62  
+DL  N0  MS333  -70  
+DL  N0  MS444  -91  
+UL  S0  MS111  -75  1
+UL  S0  MS222  -71  1
+UL  S0  MS333  -74  0
+UL  S0  MS444  -78  0
+UL  N0  MS111  -72  
+UL  N0  MS222  -76  
+UL  N0  MS333  missing  
+UL  N0  MS444  -74  
+DL  S0  MS111  -73  0
+DL  S0  MS222  -71  0
+DL  S0  MS333  -78  1
+DL  S0  MS444  -77  1
+DL  N0  MS111  -78  
+DL  N0  MS222  -70  
+DL  N0  MS333  -74  
+DL  N0  MS444  -86  
+UL  S0  MS111  -70  0
+UL  S0  MS222  -69  1
+UL  S0  MS333  -71  1
+UL  S0  MS444  -79  1
+UL  N0  MS111  -67  
+UL  N0  MS222  -73  
+UL  N0  MS333  -74  
+UL  N0  MS444  -78  
+DL  S0  MS111  -78  0
+DL  S0  MS222  -80  2
+DL  S0  MS333  -80  0
+DL  S0  MS444  -72  0
+DL  N0  MS111  -82  
+DL  N0  MS222  -73  
+DL  N0  MS333  -73  
+DL  N0  MS444  -78  
+UL  S0  MS111  -70  0
+UL  S0  MS222  -67  0
+UL  S0  MS333  -68  1
+UL  S0  MS444  -80  1
+UL  N0  MS111  -62  
+UL  N0  MS222  -68  
+UL  N0  MS333  -75  
+UL  N0  MS444  -76  
+DL  S0  MS111  -74  1
+DL  S0  MS222  -78  2
+DL  S0  MS333  -79  1
+DL  S0  MS444  -69  0
+DL  N0  MS111  -79  
+DL  N0  MS222  -77  
+DL  N0  MS333  -71  
+DL  N0  MS444  -69  
+UL  S0  MS111  -71  0
+UL  S0  MS222  -75  0
+UL  S0  MS333  missing  
+UL  S0  MS444  -83  4
+UL  N0  MS111  -70  
+UL  N0  MS222  -70  
+UL  N0  MS333  -81  
+UL  N0  MS444  -73  
+DL  S0  MS111  missing  
+DL  S0  MS222  -83  2
+DL  S0  MS333  -83  4
+DL  S0  MS444  -65  1
+DL  N0  MS111  -82  
+DL  N0  MS222  -77  
+DL  N0  MS333  -67  
+DL  N0  MS444  -68  
+UL  S0  MS111  -66  1
+UL  S0  MS222  -70  1
+UL  S0  MS333  -68  0
+UL  S0  MS444  -79  2
+UL  N0  MS111  -71  
+UL  N0  MS222  -69  
+UL  N0  MS333  -86  
+UL  N0  MS444  -74  
+DL  S0  MS111  -76  1
+DL  S0  MS222  -81  5
+DL  S0  MS333  -83  2
+DL  S0  MS444  -60  1
+DL  N0  MS111  -75  
+DL  N0  MS222  missing  
+DL  N0  MS333  -71  
+DL  N0  MS444  -70  
+UL  S0  MS111  -75  1
+UL  S0  MS222  -67  0
+UL  S0  MS333  -69  1
+UL  S0  MS444  -78  0
+UL  N0  MS111  -78  
+UL  N0  MS222  -74  
+UL  N0  MS333  -84  
+UL  N0  MS444  -70  
+DL  S0  MS111  -75  0
+DL  S0  MS222  -75  0
+DL  S0  MS333  -73  0
+DL  S0  MS444  missing  
+DL  N0  MS111  -77  
+DL  N0  MS222  -78  
+DL  N0  MS333  -73  
+DL  N0  MS444  -70  
+UL  S0  MS111  -77  0
+UL  S0  MS222  -76  0
+UL  S0  MS333  -75  0
+UL  S0  MS444  -83  3
+UL  N0  MS111  -80  
+UL  N0  MS222  -72  
+UL  N0  MS333  -73  
+UL  N0  MS444  -75  
+DL  S0  MS111  -70  0
+DL  S0  MS222  -79  2
+DL  S0  MS333  -68  0
+DL  S0  MS444  -73  1
+DL  N0  MS111  -79  
+DL  N0  MS222  -80  
+DL  N0  MS333  -72  
+DL  N0  MS444  -76  
+UL  S0  MS111  -75  0
+UL  S0  MS222  -71  1
+UL  S0  MS333  -70  1
+UL  S0  MS444  -76  2
+UL  N0  MS111  -75  
+UL  N0  MS222  -76  
+UL  N0  MS333  -63  
+UL  N0  MS444  -73  
+DL  S0  MS111  -72  1
+DL  S0  MS222  -76  1
+DL  S0  MS333  -65  1
+DL  S0  MS444  -82  3
+DL  N0  MS111  -77  
+DL  N0  MS222  -82  
+DL  N0  MS333  -67  
+DL  N0  MS444  -75  
+UL  S0  MS111  -80  0
+UL  S0  MS222  -67  1
+UL  S0  MS333  -73  0
+UL  S0  MS444  -81  5
+UL  N0  MS111  -70  
+UL  N0  MS222  -81  
+UL  N0  MS333  -67  
+UL  N0  MS444  -77  
+DL  S0  MS111  -75  1
+DL  S0  MS222  -80  2
+DL  S0  MS333  -69  1
+DL  S0  MS444  -89  4
+DL  N0  MS111  -78  
+DL  N0  MS222  -82  
+DL  N0  MS333  -70  
+DL  N0  MS444  -75  
+UL  S0  MS111  -80  2
+UL  S0  MS222  -66  0
+UL  S0  MS333  -71  0
+UL  S0  MS444  -81  2
+UL  N0  MS111  -65  
+UL  N0  MS222  -84  
+UL  N0  MS333  -70  
+UL  N0  MS444  -73  
+DL  S0  MS111  -72  0
+DL  S0  MS222  -79  0
+DL  S0  MS333  -76  0
+DL  S0  MS444  -88  4
+DL  N0  MS111  missing  
+DL  N0  MS222  -80  
+DL  N0  MS333  -67  
+DL  N0  MS444  -70  
+UL  S0  MS111  -83  2
+UL  S0  MS222  -66  1
+UL  S0  MS333  -68  1
+UL  S0  MS444  -75  1
+UL  N0  MS111  -60  
+UL  N0  MS222  -86  
+UL  N0  MS333  -71  
+UL  N0  MS444  -75  
+DL  S0  MS111  -67  1
+DL  S0  MS222  -78  2
+DL  S0  MS333  -83  2
+DL  S0  MS444  -83  4
+DL  N0  MS111  -73  
+DL  N0  MS222  -71  
+DL  N0  MS333  -66  
+DL  N0  MS444  -70  
+UL  S0  MS111  -82  3
+UL  S0  MS222  -73  1
+UL  S0  MS333  -63  0
+UL  S0  MS444  -73  1
+UL  N0  MS111  -65  
+UL  N0  MS222  -76  
+UL  N0  MS333  -71  
+UL  N0  MS444  -79  
+DL  S0  MS111  -64  0
+DL  S0  MS222  -76  2
+DL  S0  MS333  -85  2
+DL  S0  MS444  -80  0
+DL  N0  MS111  -72  
+DL  N0  MS222  -71  
+DL  N0  MS333  -72  
+DL  N0  MS444  -75  
+UL  S0  MS111  -75  0
+UL  S0  MS222  -76  2
+UL  S0  MS333  -63  0
+UL  S0  MS444  -74  1
+UL  N0  MS111  -71  
+UL  N0  MS222  -65  
+UL  N0  MS333  -79  
+UL  N0  MS444  -82  
+DL  S0  MS111  -64  0
+DL  S0  MS222  -77  1
+DL  S0  MS333  -89  2
+DL  S0  MS444  -70  0
+DL  N0  MS111  -75  
+DL  N0  MS222  -66  
+DL  N0  MS333  -77  
+DL  N0  MS444  -79  
+UL  S0  MS111  -72  0
+UL  S0  MS222  -71  0
+UL  S0  MS333  -71  0
+UL  S0  MS444  -76  1
+UL  N0  MS111  -77  
+UL  N0  MS222  -62  
+UL  N0  MS333  -84  
+UL  N0  MS444  -78  
+DL  S0  MS111  -70  1
+DL  S0  MS222  -82  3
+DL  S0  MS333  missing  
+DL  S0  MS444  -62  1
+DL  N0  MS111  -72  
+DL  N0  MS222  -63  
+DL  N0  MS333  -73  
+DL  N0  MS444  -77  
+UL  S0  MS111  -71  1
+UL  S0  MS222  -76  2
+UL  S0  MS333  -70  1
+UL  S0  MS444  -77  1
+UL  N0  MS111  -80  
+UL  N0  MS222  -67  
+UL  N0  MS333  -89  
+UL  N0  MS444  -83  
+DL  S0  MS111  -77  2
+DL  S0  MS222  -86  2
+DL  S0  MS333  -66  1
+DL  S0  MS444  -67  0
+DL  N0  MS111  -68  
+DL  N0  MS222  -71  
+DL  N0  MS333  -77  
+DL  N0  MS444  -73  
+UL  S0  MS111  -67  1
+UL  S0  MS222  -78  2
+UL  S0  MS333  -69  0
+UL  S0  MS444  -73  0
+UL  N0  MS111  -81  
+UL  N0  MS222  -75  
+UL  N0  MS333  -80  
+UL  N0  MS444  -80  
+DL  S0  MS111  -77  2
+DL  S0  MS222  -82  5
+DL  S0  MS333  missing  
+DL  S0  MS444  missing  
+DL  N0  MS111  -64  
+DL  N0  MS222  -70  
+DL  N0  MS333  -82  
+DL  N0  MS444  -70  
+UL  S0  MS111  missing  
+UL  S0  MS222  -81  5
+UL  S0  MS333  -77  2
+UL  S0  MS444  -76  1
+UL  N0  MS111  -82  
+UL  N0  MS222  -76  
+UL  N0  MS333  -74  
+UL  N0  MS444  -77  
+DL  S0  MS111  -76  0
+DL  S0  MS222  -73  0
+DL  S0  MS333  -61  0
+DL  S0  MS444  -73  0
+DL  N0  MS111  -73  
+DL  N0  MS222  missing  
+DL  N0  MS333  missing  
+DL  N0  MS444  -70  
+UL  S0  MS111  missing  
+UL  S0  MS222  -77  0
+UL  S0  MS333  -79  2
+UL  S0  MS444  -75  1
+UL  N0  MS111  -86  
+UL  N0  MS222  -74  
+UL  N0  MS333  -71  
+UL  N0  MS444  -73  
+DL  S0  MS111  -78  1
+DL  S0  MS222  -66  0
+DL  S0  MS333  -63  0
+DL  S0  MS444  missing  
+DL  N0  MS111  -79  
+DL  N0  MS222  -82  
+DL  N0  MS333  -78  
+DL  N0  MS444  -70  
+UL  S0  MS111  -62  1
+UL  S0  MS222  -79  1
+UL  S0  MS333  -78  0
+UL  S0  MS444  -75  0
+UL  N0  MS111  -80  
+UL  N0  MS222  missing  
+UL  N0  MS333  -70  
+UL  N0  MS444  -69  
+DL  S0  MS111  -79  1
+DL  S0  MS222  -67  1
+DL  S0  MS333  -63  1
+DL  S0  MS444  -79  2
+DL  N0  MS111  -83  
+DL  N0  MS222  -86  
+DL  N0  MS333  -80  
+DL  N0  MS444  -67  
+UL  S0  MS111  -60  0
+UL  S0  MS222  -81  3
+UL  S0  MS333  -75  1
+UL  S0  MS444  -73  1
+UL  N0  MS111  -75  
+UL  N0  MS222  -77  
+UL  N0  MS333  -69  
+UL  N0  MS444  missing  
+DL  S0  MS111  -82  2
+DL  S0  MS222  -62  0
+DL  S0  MS333  missing  
+DL  S0  MS444  -84  5
+DL  N0  MS111  -84  
+DL  N0  MS222  -89  
+DL  N0  MS333  -73  
+DL  N0  MS444  -71  
+UL  S0  MS111  -65  0
+UL  S0  MS222  -79  2
+UL  S0  MS333  -74  1
+UL  S0  MS444  -74  1
+UL  N0  MS111  -74  
+UL  N0  MS222  -72  
+UL  N0  MS333  -72  
+UL  N0  MS444  -61  
+DL  S0  MS111  missing  
+DL  S0  MS222  -61  1
+DL  S0  MS333  -65  1
+DL  S0  MS444  -82  3
+DL  N0  MS111  -79  
+DL  N0  MS222  -77  
+DL  N0  MS333  -76  
+DL  N0  MS444  -79  
+UL  S0  MS111  -63  1
+UL  S0  MS222  -80  0
+UL  S0  MS333  -75  1
+UL  S0  MS444  -71  1
+UL  N0  MS111  -74  
+UL  N0  MS222  -70  
+UL  N0  MS333  -67  
+UL  N0  MS444  -65  
+DL  S0  MS111  -79  1
+DL  S0  MS222  -63  1
+DL  S0  MS333  -65  1
+DL  S0  MS444  -83  4
+DL  N0  MS111  -72  
+DL  N0  MS222  -68  
+DL  N0  MS333  missing  
+DL  N0  MS444  -83  
+UL  S0  MS111  -67  0
+UL  S0  MS222  -81  4
+UL  S0  MS333  -71  1
+UL  S0  MS444  missing  
+UL  N0  MS111  -73  
+UL  N0  MS222  -65  
+UL  N0  MS333  -72  
+UL  N0  MS444  -74  
+DL  S0  MS111  -73  1
+DL  S0  MS222  -72  1
+DL  S0  MS333  -71  1
+DL  S0  MS444  -71  0
+DL  N0  MS111  -71  
+DL  N0  MS222  -63  
+DL  N0  MS333  -78  
+DL  N0  MS444  -83  
+UL  S0  MS111  -66  1
+UL  S0  MS222  -76  2
+UL  S0  MS333  -71  1
+UL  S0  MS444  -76  0
+UL  N0  MS111  -69  
+UL  N0  MS222  -60  
+UL  N0  MS333  -70  
+UL  N0  MS444  -82  
+DL  S0  MS111  -68  0
+DL  S0  MS222  -73  1
+DL  S0  MS333  -74  1
+DL  S0  MS444  -67  1
+DL  N0  MS111  -67  
+DL  N0  MS222  -63  
+DL  N0  MS333  -83  
+DL  N0  MS444  -79  
+UL  S0  MS111  -74  1
+UL  S0  MS222  -76  2
+UL  S0  MS333  missing  
+UL  S0  MS444  missing  
+UL  N0  MS111  -71  
+UL  N0  MS222  -66  
+UL  N0  MS333  -65  
+UL  N0  MS444  -77  
+DL  S0  MS111  -70  0
+DL  S0  MS222  -77  1
+DL  S0  MS333  -81  3
+DL  S0  MS444  -63  1
+DL  N0  MS111  -64  
+DL  N0  MS222  -66  
+DL  N0  MS333  -85  
+DL  N0  MS444  -72  
+UL  S0  MS111  -73  1
+UL  S0  MS222  -77  1
+UL  S0  MS333  missing  
+UL  S0  MS444  -82  5
+UL  N0  MS111  -69  
+UL  N0  MS222  -69  
+UL  N0  MS333  -69  
+UL  N0  MS444  -73  
+DL  S0  MS111  -70  0
+DL  S0  MS222  -73  0
+DL  S0  MS333  -76  0
+DL  S0  MS444  -67  0
+DL  N0  MS111  -67  
+DL  N0  MS222  missing  
+DL  N0  MS333  -74  
+DL  N0  MS444  -67  
+UL  S0  MS111  -75  0
+UL  S0  MS222  -74  0
+UL  S0  MS333  -78  1
+UL  S0  MS444  -82  2
+UL  N0  MS111  -72  
+UL  N0  MS222  -68  
+UL  N0  MS333  -75  
+UL  N0  MS444  -75  
+DL  S0  MS111  -69  1
+DL  S0  MS222  -71  0
+DL  S0  MS333  -75  1
+DL  S0  MS444  -72  0
+DL  N0  MS111  -76  
+DL  N0  MS222  -77  
+DL  N0  MS333  -70  
+DL  N0  MS444  missing  
+UL  S0  MS111  -71  1
+UL  S0  MS222  -73  1
+UL  S0  MS333  -82  2
+UL  S0  MS444  -77  0
+UL  N0  MS111  -73  
+UL  N0  MS222  -68  
+UL  N0  MS333  -76  
+UL  N0  MS444  -78  
+DL  S0  MS111  missing  
+DL  S0  MS222  -74  1
+DL  S0  MS333  -79  1
+DL  S0  MS444  -76  1
+DL  N0  MS111  missing  
+DL  N0  MS222  -83  
+DL  N0  MS333  -65  
+DL  N0  MS444  -65  
+UL  S0  MS111  -69  1
+UL  S0  MS222  -77  0
+UL  S0  MS333  -75  1
+UL  S0  MS444  -74  1
+UL  N0  MS111  -76  
+UL  N0  MS222  -73  
+UL  N0  MS333  -81  
+UL  N0  MS444  -83  
+DL  S0  MS111  -73  1
+DL  S0  MS222  -70  0
+DL  S0  MS333  -78  1
+DL  S0  MS444  -85  3
+DL  N0  MS111  -75  
+DL  N0  MS222  -79  
+DL  N0  MS333  -70  
+DL  N0  MS444  -74  
+UL  S0  MS111  -66  0
+UL  S0  MS222  -75  0
+UL  S0  MS333  -63  1
+UL  S0  MS444  -69  0
+UL  N0  MS111  -74  
+UL  N0  MS222  -78  
+UL  N0  MS333  -76  
+UL  N0  MS444  -87  
+DL  S0  MS111  -69  0
+DL  S0  MS222  -69  1
+DL  S0  MS333  -73  0
+DL  S0  MS444  -80  1
+DL  N0  MS111  -75  
+DL  N0  MS222  -77  
+DL  N0  MS333  -71  
+DL  N0  MS444  -83  
+UL  S0  MS111  -66  0
+UL  S0  MS222  -71  1
+UL  S0  MS333  -62  1
+UL  S0  MS444  -65  0
+UL  N0  MS111  -76  
+UL  N0  MS222  -75  
+UL  N0  MS333  -72  
+UL  N0  MS444  -79  
+DL  S0  MS111  -68  1
+DL  S0  MS222  -66  1
+DL  S0  MS333  -73  1
+DL  S0  MS444  -81  3
+DL  N0  MS111  missing  
+DL  N0  MS222  -75  
+DL  N0  MS333  -74  
+DL  N0  MS444  -78  
+UL  S0  MS111  missing  
+UL  S0  MS222  -66  0
+UL  S0  MS333  -57  1
+UL  S0  MS444  -68  0
+UL  N0  MS111  -75  
+UL  N0  MS222  -80  
+UL  N0  MS333  -72  
+UL  N0  MS444  -76  
+DL  S0  MS111  -74  0
+DL  S0  MS222  -74  0
+DL  S0  MS333  -74  1
+DL  S0  MS444  -75  1
+DL  N0  MS111  -79  
+DL  N0  MS222  -75  
+DL  N0  MS333  -73  
+DL  N0  MS444  -83  
+UL  S0  MS111  -71  0
+UL  S0  MS222  -65  0
+UL  S0  MS333  -60  1
+UL  S0  MS444  -74  1
+UL  N0  MS111  -75  
+UL  N0  MS222  -82  
+UL  N0  MS333  -76  
+UL  N0  MS444  missing  
+DL  S0  MS111  -72  0
+DL  S0  MS222  -79  1
+DL  S0  MS333  -75  0
+DL  S0  MS444  -66  1
+DL  N0  MS111  -75  
+DL  N0  MS222  -80  
+DL  N0  MS333  -75  
+DL  N0  MS444  -84  
+UL  S0  MS111  -80  2
+UL  S0  MS222  -71  0
+UL  S0  MS333  -69  1
+UL  S0  MS444  -83  3
+UL  N0  MS111  -76  
+UL  N0  MS222  -78  
+UL  N0  MS333  -81  
+UL  N0  MS444  -63  
+DL  S0  MS111  -71  1
+DL  S0  MS222  -80  0
+DL  S0  MS333  -80  2
+DL  S0  MS444  -61  1
+DL  N0  MS111  -78  
+DL  N0  MS222  -75  
+DL  N0  MS333  -79  
+DL  N0  MS444  -77  
+UL  S0  MS111  -75  0
+UL  S0  MS222  -78  2
+UL  S0  MS333  missing  
+UL  S0  MS444  -80  1
+UL  N0  MS111  -72  
+UL  N0  MS222  -82  
+UL  N0  MS333  -84  
+UL  N0  MS444  -60  
+DL  S0  MS111  -66  1
+DL  S0  MS222  -76  0
+DL  S0  MS333  -79  1
+DL  N0  MS111  -78  
+DL  N0  MS222  -79  
+DL  N0  MS333  -82  
+UL  S0  MS111  -79  0
+UL  S0  MS222  -81  4
+UL  S0  MS333  -84  4
+UL  N0  MS111  -68  
+UL  N0  MS222  -76  
+UL  N0  MS333  -80  
+DL  S0  MS111  -64  0
+DL  S0  MS222  -78  2
+DL  S0  MS333  -78  2
+DL  N0  MS111  -74  
+DL  N0  MS222  -75  
+DL  N0  MS333  -87  
+UL  S0  MS111  missing  
+UL  S0  MS222  -78  0
+UL  S0  MS333  -79  2
+UL  N0  MS111  -70  
+UL  N0  MS222  -80  
+UL  N0  MS333  -70  
+DL  S0  MS111  -69  0
+DL  S0  MS222  -82  2
+DL  S0  MS333  -80  2
+DL  N0  MS111  -69  
+DL  N0  MS222  -71  
+DL  N0  MS333  -83  
+UL  S0  MS111  -87  2
+UL  S0  MS222  -82  5
+UL  S0  MS333  missing  
+UL  N0  MS111  -73  
+UL  N0  MS222  -76  
+UL  N0  MS333  -67  
+DL  S0  MS111  -71  1
+DL  S0  MS222  -80  1
+DL  S0  MS333  -75  1
+DL  N0  MS111  -69  
+DL  N0  MS222  -66  
+DL  N0  MS333  -74  
+UL  S0  MS111  -91  5
+UL  S0  MS222  -80  1
+UL  S0  MS333  -78  1
+UL  N0  MS111  -69  
+UL  N0  MS222  -73  
+UL  N0  MS333  -63  
+DL  S0  MS111  -76  2
+DL  S0  MS222  -81  2
+DL  S0  MS333  -74  0
+DL  N0  MS111  missing  
+DL  N0  MS222  -63  
+DL  N0  MS333  -68  
+UL  S0  MS111  -87  3
+UL  S0  MS222  -74  1
+UL  S0  MS333  -83  3
+UL  N0  MS111  -64  
+UL  N0  MS222  -68  
+UL  N0  MS333  -67  
+DL  S0  MS111  -77  1
+DL  S0  MS222  -75  0
+DL  S0  MS333  -78  0
+DL  N0  MS111  -79  
+DL  N0  MS222  -65  
+DL  N0  MS333  -67  
+UL  S0  MS111  -82  4
+UL  S0  MS222  -72  1
+UL  S0  MS333  -79  2
+UL  N0  MS111  -72  
+UL  N0  MS222  -67  
+UL  N0  MS333  -69  
+DL  S0  MS111  -77  0
+DL  S0  MS222  -78  2
+DL  S0  MS333  -75  0
+DL  N0  MS111  -79  
+DL  N0  MS222  -73  
+DL  N0  MS333  -72  
+UL  S0  MS111  -74  0
+UL  S0  MS222  -69  0
+UL  S0  MS333  -82  3
+UL  N0  MS111  -76  
+UL  N0  MS222  -62  
+UL  N0  MS333  -75  
+DL  S0  MS111  -77  1
+DL  S0  MS222  -75  1
+DL  S0  MS333  -77  1
+DL  N0  MS111  -77  
+DL  N0  MS222  -81  
+DL  N0  MS333  -77  
+UL  S0  MS111  -65  0
+UL  S0  MS222  -74  0
+UL  S0  MS333  -72  1
+UL  N0  MS111  -80  
+UL  N0  MS222  -64  
+UL  N0  MS333  -84  
+DL  S0  MS111  -75  1
+DL  S0  MS222  -70  0
+DL  S0  MS333  -77  1
+DL  N0  MS111  -81  
+DL  N0  MS222  -85  
+DL  N0  MS333  -74  
+UL  S0  MS111  -68  1
+UL  S0  MS222  -78  2
+UL  S0  MS333  -73  0
+UL  N0  MS111  -75  
+UL  N0  MS222  -67  
+UL  N0  MS333  -79  
+DL  S0  MS111  -72  1
+DL  S0  MS222  -67  0
+DL  S0  MS333  -81  3
+DL  N0  MS111  -82  
+DL  N0  MS222  -87  
+DL  N0  MS333  -70  
+UL  S0  MS111  -71  0
+UL  S0  MS222  -74  0
+UL  S0  MS333  -70  1
+UL  N0  MS111  -80  
+UL  N0  MS222  -70  
+UL  N0  MS333  -82  
+DL  S0  MS111  -72  0
+DL  S0  MS222  -72  1
+DL  S0  MS333  -81  4
+DL  N0  MS111  missing  
+DL  N0  MS222  -78  
+DL  N0  MS333  -73  
+UL  S0  MS111  -76  1
+UL  S0  MS222  -79  1
+UL  S0  MS333  -73  1
+UL  N0  MS111  -78  
+UL  N0  MS222  -78  
+UL  N0  MS333  -81  
+DL  S0  MS111  missing  
+DL  S0  MS222  -74  0
+DL  S0  MS333  missing  
+DL  N0  MS111  -74  
+DL  N0  MS222  -67  
+DL  N0  MS333  -78  
+UL  S0  MS111  -79  2
+UL  S0  MS222  -77  2
+UL  S0  MS333  -74  1
+UL  N0  MS111  -78  
+UL  N0  MS222  -84  
+UL  N0  MS333  -69  
+DL  S0  MS111  -72  1
+DL  S0  MS222  -77  1
+DL  S0  MS333  -83  3
+DL  N0  MS111  -71  
+DL  N0  MS222  -65  
+DL  N0  MS333  -80  
+UL  S0  MS111  -81  5
+UL  S0  MS222  -80  0
+UL  S0  MS333  -73  0
+UL  N0  MS111  -83  
+UL  N0  MS222  -81  
+UL  N0  MS333  -70  
+DL  S0  MS111  -68  0
+DL  S0  MS222  -74  0
+DL  S0  MS333  -71  0
+DL  N0  MS111  -76  
+DL  N0  MS222  missing  
+DL  N0  MS333  -83  
+UL  S0  MS111  -83  4
+UL  S0  MS222  -82  3
+UL  S0  MS333  missing  
+UL  N0  MS111  -87  
+UL  N0  MS222  missing  
+UL  N0  MS333  -73  
+DL  S0  MS111  -73  0
+DL  S0  MS222  -74  1
+DL  S0  MS333  -69  0
+DL  N0  MS111  -77  
+DL  N0  MS222  -69  
+DL  N0  MS333  -85  
+UL  S0  MS111  -79  1
+UL  S0  MS222  -78  1
+UL  S0  MS333  -75  1
+UL  N0  MS111  -79  
+UL  N0  MS222  missing  
+UL  N0  MS333  -76  
+DL  S0  MS111  -69  1
+DL  S0  MS222  -76  1
+DL  S0  MS333  -72  1
+DL  N0  MS111  -72  
+DL  N0  MS222  -75  
+DL  N0  MS333  -74  
+UL  S0  MS111  -71  1
+UL  S0  MS222  -79  2
+UL  S0  MS333  -75  0
+UL  N0  MS111  -76  
+UL  N0  MS222  -70  
+UL  N0  MS333  -80  
+DL  S0  MS111  missing  
+DL  S0  MS222  -79  1
+DL  S0  MS333  -69  1
+DL  N0  MS111  -67  
+DL  N0  MS222  -79  
+DL  N0  MS333  -68  
+UL  S0  MS111  -76  2
+UL  S0  MS222  -78  0
+UL  S0  MS333  -80  0
+UL  N0  MS111  missing  
+UL  N0  MS222  -65  
+UL  N0  MS333  -77  
+DL  S0  MS111  -74  0
+DL  S0  MS222  -78  1
+DL  S0  MS333  -65  0
+DL  N0  MS111  -67  
+DL  N0  MS222  -77  
+DL  N0  MS333  missing  
+UL  S0  MS111  -73  0
+UL  S0  MS222  -81  2
+UL  S0  MS333  -79  2
+UL  N0  MS111  -70  
+UL  N0  MS222  -61  
+UL  N0  MS333  -82  
+DL  S0  MS111  -75  1
+DL  S0  MS222  -78  0
+DL  S0  MS333  -67  1
+DL  N0  MS111  -64  
+DL  N0  MS222  missing  
+DL  N0  MS333  -63  
+UL  S0  MS111  missing  
+UL  S0  MS222  -86  3
+UL  S0  MS333  -74  1
+UL  N0  MS111  -65  
+UL  N0  MS222  -57  
+UL  N0  MS333  -81  
+DL  S0  MS111  -76  2
+DL  S0  MS222  missing  
+DL  S0  MS333  -74  1
+DL  N0  MS111  -72  
+DL  N0  MS222  -76  
+DL  N0  MS333  -65  
+UL  S0  MS111  -71  0
+UL  S0  MS222  -83  4
+UL  S0  MS333  -70  0
+UL  N0  MS111  -62  
+UL  N0  MS222  -60  
+UL  N0  MS333  -76  
+DL  S0  MS111  -78  1
+DL  S0  MS222  -84  3
+DL  S0  MS333  -82  4
+DL  N0  MS111  missing  
+DL  N0  MS222  missing  
+DL  N0  MS333  -65  
+UL  S0  MS111  -67  1
+UL  S0  MS222  -76  1
+UL  S0  MS333  -72  1
+UL  N0  MS111  -66  
+UL  N0  MS222  -64  
+UL  N0  MS333  -74  
+DL  S0  MS111  -82  4
+DL  S0  MS222  -84  2
+DL  S0  MS333  -84  5
+DL  N0  MS111  -75  
+DL  N0  MS222  -67  
+DL  N0  MS333  -67  
+UL  S0  MS111  -62  0
+UL  S0  MS222  -68  1
+UL  S0  MS333  -67  0
+UL  N0  MS111  -75  
+UL  N0  MS222  -68  
+UL  N0  MS333  -73  
+DL  S0  MS111  -86  3
+DL  S0  MS222  -76  1
+DL  S0  MS333  -84  5
+DL  N0  MS111  -76  
+DL  N0  MS222  -69  
+DL  N0  MS333  -74  
+UL  S0  MS111  missing  
+UL  S0  MS222  -72  1
+UL  S0  MS333  -62  0
+UL  N0  MS111  -84  
+UL  N0  MS222  -72  
+UL  N0  MS333  -71  
+DL  S0  MS111  -83  3
+DL  S0  MS222  -67  1
+DL  S0  MS333  -73  0
+DL  N0  MS111  -75  
+DL  N0  MS222  -74  
+DL  N0  MS333  -75  
+UL  S0  MS111  -70  1
+UL  S0  MS222  -73  0
+UL  S0  MS333  -65  0
+UL  N0  MS111  -85  
+UL  N0  MS222  -81  
+UL  N0  MS333  -69  
+DL  S0  MS111  -73  1
+DL  S0  MS222  -70  1
+DL  S0  MS333  -68  1
+DL  N0  MS111  -72  
+DL  N0  MS222  -76  
+DL  N0  MS333  -76  
+UL  S0  MS111  -76  1
+UL  S0  MS222  -74  1
+UL  S0  MS333  -70  1
+UL  N0  MS111  -85  
+UL  N0  MS222  -85  
+UL  N0  MS333  -72  
+DL  S0  MS111  -71  0
+DL  S0  MS222  -71  0
+DL  S0  MS333  -64  1
+DL  N0  MS111  -74  
+DL  N0  MS222  -78  
+DL  N0  MS333  -75  
+UL  S0  MS111  -81  2
+UL  S0  MS222  -76  2
+UL  S0  MS333  -78  0
+UL  N0  MS111  -81  
+UL  N0  MS222  -82  
+UL  N0  MS333  -68  
+DL  S0  MS111  -68  1
+DL  S0  MS222  -68  0
+DL  S0  MS333  -63  0
+DL  N0  MS111  -75  
+DL  N0  MS222  -81  
+DL  N0  MS333  -78  
+UL  S0  MS111  -77  2
+UL  S0  MS222  -77  0
+UL  S0  MS333  -80  0
+UL  N0  MS111  -70  
+UL  N0  MS222  -87  
+UL  N0  MS333  -66  
+DL  S0  MS111  -66  1
+DL  S0  MS222  -70  0
+DL  S0  MS333  -71  0
+DL  N0  MS111  -79  
+DL  N0  MS222  -79  
+DL  N0  MS333  -81  
+UL  S0  MS111  -73  0
+UL  S0  MS222  -78  2
+UL  S0  MS333  -85  2
+UL  N0  MS111  -65  
+UL  N0  MS222  -81  
+UL  N0  MS333  -65  
+DL  S0  MS111  -75  0
+DL  S0  MS222  -76  0
+DL  S0  MS333  -73  1
+DL  N0  MS111  -74  
+DL  N0  MS222  -80  
+DL  N0  MS333  missing  
+UL  S0  MS111  -71  0
+UL  S0  MS222  -80  0
+UL  S0  MS333  -87  5
+UL  N0  MS111  -66  
+UL  N0  MS222  -72  
+UL  N0  MS333  -71  
+DL  S0  MS111  -73  0
+DL  S0  MS222  -73  0
+DL  S0  MS333  -79  1
+DL  N0  MS111  -77  
+DL  N0  MS222  -77  
+DL  N0  MS333  -84  
+UL  S0  MS111  -73  1
+UL  S0  MS222  -80  1
+UL  S0  MS333  -84  3
+UL  N0  MS111  -64  
+UL  N0  MS222  -67  
+UL  N0  MS333  -76  
+DL  S0  MS111  -73  1
+DL  S0  MS222  -78  1
+DL  S0  MS333  -77  2
+DL  N0  MS111  -77  
+DL  N0  MS222  -75  
+DL  N0  MS333  -82  
+UL  S0  MS111  -76  0
+UL  S0  MS222  -81  4
+UL  S0  MS333  -81  3
+UL  N0  MS111  -63  
+UL  N0  MS222  -65  
+UL  N0  MS333  -78  
+DL  S0  MS111  -70  1
+DL  S0  MS222  -75  0
+DL  S0  MS333  missing  
+DL  N0  MS111  -74  
+DL  N0  MS222  missing  
+DL  N0  MS333  -74  
+UL  S0  MS111  -71  1
+UL  S0  MS222  -81  5
+UL  S0  MS333  -69  1
+UL  N0  MS111  missing  
+UL  N0  MS222  -62  
+UL  N0  MS333  -76  
+DL  S0  MS111  -66  1
+DL  S0  MS222  -73  0
+DL  S0  MS333  -74  1
+DL  N0  MS111  -76  
+DL  N0  MS222  -73  
+DL  N0  MS333  -66  
+UL  S0  MS111  -73  0
+UL  S0  MS222  -71  1
+UL  S0  MS333  -66  0
+UL  N0  MS111  -78  
+UL  N0  MS222  -65  
+UL  N0  MS333  -79  
+DL  S0  MS111  -65  0
+DL  S0  MS222  -71  0
+DL  S0  MS333  -79  2
+DL  N0  MS111  -73  
+DL  N0  MS222  missing  
+DL  N0  MS333  -70  
+UL  S0  MS111  -69  0
+UL  S0  MS222  -68  1
+UL  S0  MS333  -64  0
+UL  N0  MS111  -84  
+UL  N0  MS222  -64  
+UL  N0  MS333  -83  
+DL  S0  MS111  -70  0
+DL  S0  MS222  -71  1
+DL  S0  MS333  -83  3
+DL  N0  MS111  -75  
+DL  N0  MS222  -70  
+DL  N0  MS333  -68  
+UL  S0  MS111  -72  1
+UL  S0  MS222  -72  1
+UL  S0  MS333  -67  0
+UL  N0  MS111  -84  
+UL  N0  MS222  -63  
+UL  N0  MS333  -85  
+DL  S0  MS111  -74  1
+DL  S0  MS222  -67  1
+DL  S0  MS333  -84  2
+DL  N0  MS111  -76  
+DL  N0  MS222  -67  
+DL  N0  MS333  -75  
+UL  S0  MS111  -77  0
+UL  S0  MS222  -71  0
+UL  S0  MS333  -71  1
+UL  N0  MS111  -84  
+UL  N0  MS222  -67  
+UL  N0  MS333  -76  
+DL  S0  MS111  -81  2
+DL  S0  MS222  -66  0
+DL  S0  MS333  -86  4
+DL  N0  MS111  -80  
+DL  N0  MS222  -68  
+DL  N0  MS333  -80  
+UL  S0  MS111  -75  0
+UL  S0  MS222  -67  1
+UL  S0  MS333  -78  0
+UL  N0  MS111  -77  
+UL  N0  MS222  -71  
+UL  N0  MS333  -73  
+DL  S0  MS111  -86  5
+DL  S0  MS222  -70  1
+DL  S0  MS333  -80  2
+DL  N0  MS111  -82  
+DL  N0  MS222  -74  
+DL  N0  MS333  -82  
+UL  S0  MS111  -77  0
+UL  S0  MS222  -68  0
+UL  S0  MS333  -74  1
+UL  N0  MS111  -71  
+UL  N0  MS222  -73  
+UL  N0  MS333  -73  
+DL  S0  MS111  -82  4
+DL  S0  MS222  -71  1
+DL  S0  MS333  -73  1
+DL  N0  MS111  -80  
+DL  N0  MS222  missing  
+DL  N0  MS333  -79  
+UL  S0  MS111  -77  0
+UL  S0  MS222  -70  0
+UL  S0  MS333  -74  0
+UL  N0  MS111  -67  
+UL  N0  MS222  -73  
+UL  N0  MS333  -75  
+DL  S0  MS111  -76  0
+DL  S0  MS222  -72  0
+DL  S0  MS333  -64  0
+DL  N0  MS111  -77  
+DL  N0  MS222  -80  
+DL  N0  MS333  -83  
+UL  S0  MS111  -82  5
+UL  S0  MS222  missing  
+UL  S0  MS333  -70  1
+UL  N0  MS111  -62  
+UL  N0  MS222  -69  
+UL  N0  MS333  -71  
+DL  S0  MS111  -66  0
+DL  S0  MS222  -73  1
+DL  S0  MS333  -69  1
+DL  N0  MS111  -79  
+DL  N0  MS222  -78  
+DL  N0  MS333  -73  
+UL  S0  MS111  -85  2
+UL  S0  MS222  -77  0
+UL  S0  MS333  missing  
+UL  N0  MS111  -63  
+UL  N0  MS222  -71  
+UL  N0  MS333  -74  
+DL  S0  MS111  -62  0
+DL  S0  MS222  -68  1
+DL  S0  MS333  -64  1
+DL  N0  MS111  -79  
+DL  N0  MS222  -83  
+DL  N0  MS333  missing  
+UL  S0  MS111  -80  1
+UL  S0  MS222  -80  2
+UL  S0  MS333  -69  1
+UL  N0  MS111  -64  
+UL  N0  MS222  -74  
+UL  N0  MS333  -73  
+DL  S0  MS111  -65  0
+DL  S0  MS222  -64  0
+DL  S0  MS333  -66  0
+DL  N0  MS111  -77  
+DL  N0  MS222  -79  
+DL  N0  MS333  -80  
+UL  S0  MS111  -73  1
+UL  S0  MS222  -79  0
+UL  S0  MS333  -66  1
+UL  N0  MS111  -69  
+UL  N0  MS222  -77  
+UL  N0  MS333  missing  
+DL  S0  MS111  -69  0
+DL  S0  MS222  -73  1
+DL  S0  MS333  -66  0
+DL  N0  MS111  -76  
+DL  N0  MS222  -81  
+DL  N0  MS333  -82  
+UL  S0  MS111  -71  0
+UL  S0  MS222  -80  2
+UL  S0  MS333  -65  0
+UL  N0  MS111  -72  
+UL  N0  MS222  -80  
+UL  N0  MS333  -69  
+DL  S0  MS111  -77  0
+DL  S0  MS222  -72  0
+DL  S0  MS333  -72  1
+DL  N0  MS111  -76  
+DL  N0  MS222  -74  
+DL  N0  MS333  -85  
+UL  S0  MS111  -72  1
+UL  S0  MS222  -85  4
+UL  S0  MS333  -69  1
+UL  N0  MS111  -79  
+UL  N0  MS222  -79  
+UL  N0  MS333  -74  
+DL  S0  MS111  -84  2
+DL  S0  MS222  -78  2
+DL  S0  MS333  -74  1
+DL  N0  MS111  -74  
+DL  N0  MS222  -75  
+DL  N0  MS333  -81  
+UL  S0  MS111  -68  1
+UL  S0  MS222  missing  
+UL  S0  MS333  -74  1
+UL  N0  MS111  -81  
+UL  N0  MS222  -76  
+UL  N0  MS333  -71  
+DL  S0  MS111  -87  4
+DL  S0  MS222  -81  4
+DL  S0  MS333  -73  1
+DL  N0  MS111  -75  
+DL  N0  MS222  -76  
+DL  N0  MS333  -73  
+UL  S0  MS111  -66  0
+UL  S0  MS222  -64  1
+UL  S0  MS333  -80  0
+UL  N0  MS111  missing  
+UL  N0  MS222  -77  
+UL  N0  MS333  -72  
+DL  S0  MS111  -82  3
+DL  S0  MS222  -78  0
+DL  S0  MS333  -71  0
+DL  N0  MS111  -74  
+DL  N0  MS222  -74  
+DL  N0  MS333  -68  
+UL  S0  MS111  -66  0
+UL  S0  MS222  -66  0
+UL  S0  MS333  -85  4
+UL  N0  MS111  -82  
+UL  N0  MS222  -82  
+UL  N0  MS333  -71  
+DL  S0  MS111  -74  1
+DL  S0  MS222  -76  0
+DL  S0  MS333  -71  0
+DL  N0  MS111  -71  
+DL  N0  MS222  -70  
+DL  N0  MS333  -69  
+UL  S0  MS111  -72  1
+UL  S0  MS222  -70  0
+UL  S0  MS333  missing  
+UL  N0  MS111  -73  
+UL  N0  MS222  missing  
+UL  N0  MS333  -71  
+DL  S0  MS111  -63  0
+DL  S0  MS222  -72  0
+DL  S0  MS333  -73  1
+DL  N0  MS111  -76  
+DL  N0  MS222  -73  
+DL  N0  MS333  -67  
+UL  S0  MS111  -73  1
+UL  S0  MS222  -72  1
+UL  S0  MS333  missing  
+UL  N0  MS111  -77  
+UL  N0  MS222  -87  
+UL  N0  MS333  -71  
